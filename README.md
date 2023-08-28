@@ -3,7 +3,7 @@
 ### About the project:
 This project is a stock manager with CLI and GUI options.
 
-### Requirements:
+###  Requirements:
 <ul>
     <li>Python 3 - <a href="https://www.python.org/downloads/">Python 3 Download</a></li>
     <li>matplotlib - <a href="https://pypi.org/project/matplotlib/">PyPI Link</a></li>
